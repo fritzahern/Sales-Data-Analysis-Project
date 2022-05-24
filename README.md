@@ -1,2 +1,2 @@
-# Sales-Data-Analysis-Project
-Standard data analysis on a yearly sales for a company
+# Semiconductior-Data-Analysis-
+Unfolding proporties of a p-doped semiconductor 
